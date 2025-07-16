@@ -110,6 +110,8 @@
 }
 
 @media (max-width: 800px) {
+  .menu__item-1,
+  .menu__item-2,
   .menu__item-3,
   .menu__item-4,
   .menu__item-5,
